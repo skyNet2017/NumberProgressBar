@@ -8,6 +8,7 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.daimajia.numberprogressbar.example.MainActivity"
+            android:exported="true"
             android:label="NumberProgressBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
