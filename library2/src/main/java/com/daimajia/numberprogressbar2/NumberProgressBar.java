@@ -14,7 +14,7 @@ import android.view.View;
 import static com.daimajia.numberprogressbar2.NumberProgressBar.ProgressTextVisibility.Invisible;
 import static com.daimajia.numberprogressbar2.NumberProgressBar.ProgressTextVisibility.Visible;
 
-import com.daimajia.numberprogressbar.R;
+import com.daimajia.numberprogressbar2.R;
 
 /**
  * Created by daimajia on 14-4-30.
